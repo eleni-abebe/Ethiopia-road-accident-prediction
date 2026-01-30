@@ -52,7 +52,7 @@ The following models were trained and evaluated:
 | **Gradient Boosting** | **0.43** ⭐     |
 
 🧪 Project Structure
-
+```
 
 ethiopia-road-accident-prediction/
 │
@@ -74,7 +74,7 @@ ethiopia-road-accident-prediction/
 ├── requirements.txt
 └── README.md
 
-
+```
 ⚙️ Installation
 
 1️⃣ Create and activate a virtual environment
